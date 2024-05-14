@@ -16,14 +16,14 @@ So, are you ready to uncover the hidden secrets of your files and memory? Give o
 USAGE
 #############
 
-→ Code Injection Identifier
+→ Process Code Injection Identifier
 
 Ever wondered how to identify unusual executable memory locations in your system? Are you curious about what's happening under the hood of your computer? If so, this script is for you!
 
 → What does it do?
 
-This script is designed to identify patterns that are indicative of code injection in files. Code injection is a technique used by malicious actors to insert or inject code into an executable file without the user's knowledge. This can lead to unauthorized actions being performed on the user's system.
-This script searches for specific patterns in a file or a directory of files. These patterns are indicative of various techniques used in code injection, such as NOP slides, shellcode, and return-oriented programming among others.
+This script is designed to identify patterns that are indicative of Process code injection in malfind txt output files. Code injection is a technique used by malicious actors to insert or inject code into a process without the user's knowledge. This can lead to unauthorized actions being performed on the user's system.
+This script searches for specific patterns in a file or a directory of files. These patterns are indicative of various techniques used in code injection, such as MZ Headers, NOP slides, shellcode, and return-oriented programming among others.
 
 → How does it work?
 
